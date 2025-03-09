@@ -9,7 +9,7 @@
 - 003 - Desenvolva um algoritmo que receba um número N e calcule o fatorial de N, sabendo que N! = N * (N-1) * (N-2) * … * 3 * 2 * 1.
   - [Resolução](https://github.com/christianodavid/estruturas-repeticao-c/blob/main/exercicio-003/main.c)
 - 004 - Desenvolva um algoritmo que receba um número N e imprima a tabuada de N, na tela.
-  - [Não resolvido ainda]()
+  - [Resolução](https://github.com/christianodavid/estruturas-repeticao-c/blob/main/exercicio-004/main.c)
 - 005 - Charlinho tem 11 anos, mede 1,40 metros de altura e cresce em média 2,1 centímetros ao ano. Seu irmão, Bossa, aos 14 anos, tem 1,45 metros de altura e cresce em média 1,1 centímetro por ano. Elabore um programa que conte quantos anos serão necessários para que a altura de Charlinho ultrapasse a de Bossa.
   - [Não resolvido ainda]()
 - 006 - Um funcionário de uma empresa recebe aumento salarial anualmente. Sabe-se que: a) esse funcionário foi contratado em 2015, com salário inicial de R$ 1.000,00; b) em 2016 recebeu aumento de 1,5% sobre seu salário inicial; c) a partir de 2017 (inclusive), os aumentos salariais sempre corresponderam ao dobro da porcentagem do ano anterior. Faça um programa que receba o ano atual e determine o salário atual desse funcionário.
