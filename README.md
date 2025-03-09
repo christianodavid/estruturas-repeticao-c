@@ -5,7 +5,7 @@
 - 001 - Desenvolva um algoritmo que some todos os números inteiros compreendidos entre 1 e 10 (inclusive).
   - [Resolução](https://github.com/christianodavid/estruturas-repeticao-c/blob/main/exercicio-001/main.c)
 - 002 - Desenvolva um algoritmo que receba dois números inteiros positivos A e B. Exiba na tela todos os números inteiros compreendidos entre A e B, excluindo os próprios A e B.
-  - [Não resolvido ainda]()
+  - [Resolução](https://github.com/christianodavid/estruturas-repeticao-c/blob/main/exercicio-002/main.c)
 - 003 - Desenvolva um algoritmo que receba um número N e calcule o fatorial de N, sabendo que N! = N * (N-1) * (N-2) * … * 3 * 2 * 1.
   - [Não resolvido ainda]()
 - 004 - Desenvolva um algoritmo que receba um número N e imprima a tabuada de N, na tela.
