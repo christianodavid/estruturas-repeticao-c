@@ -1,4 +1,4 @@
-# Lista de Exercícios 002
+# Lista de Exercícios 003
 
 ###### Elaborada por Prof. Me. Pietro Martins de Oliveira @ Curso de Lógica de Programação em C
 
