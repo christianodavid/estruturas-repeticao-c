@@ -7,7 +7,7 @@
 - 002 - Desenvolva um algoritmo que receba dois números inteiros positivos A e B. Exiba na tela todos os números inteiros compreendidos entre A e B, excluindo os próprios A e B.
   - [Resolução](https://github.com/christianodavid/estruturas-repeticao-c/blob/main/exercicio-002/main.c)
 - 003 - Desenvolva um algoritmo que receba um número N e calcule o fatorial de N, sabendo que N! = N * (N-1) * (N-2) * … * 3 * 2 * 1.
-  - [Não resolvido ainda]()
+  - [Resolução](https://github.com/christianodavid/estruturas-repeticao-c/blob/main/exercicio-003/main.c)
 - 004 - Desenvolva um algoritmo que receba um número N e imprima a tabuada de N, na tela.
   - [Não resolvido ainda]()
 - 005 - Charlinho tem 11 anos, mede 1,40 metros de altura e cresce em média 2,1 centímetros ao ano. Seu irmão, Bossa, aos 14 anos, tem 1,45 metros de altura e cresce em média 1,1 centímetro por ano. Elabore um programa que conte quantos anos serão necessários para que a altura de Charlinho ultrapasse a de Bossa.
