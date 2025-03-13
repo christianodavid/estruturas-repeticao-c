@@ -15,7 +15,7 @@
 - 006 - Um funcionário de uma empresa recebe aumento salarial anualmente. Sabe-se que: a) esse funcionário foi contratado em 2015, com salário inicial de R$ 1.000,00; b) em 2016 recebeu aumento de 1,5% sobre seu salário inicial; c) a partir de 2017 (inclusive), os aumentos salariais sempre corresponderam ao dobro da porcentagem do ano anterior. Faça um programa que receba o ano atual e determine o salário atual desse funcionário.
   - [Resolução](https://github.com/christianodavid/estruturas-repeticao-c/blob/main/exercicio-006/main.c)
 - 007 - Desenvolva um algoritmo que peça para o usuário inserir vários números inteiros. O algoritmo deverá contabilizar a quantidade de números positivos informados. Caso o usuário digite 0, o algoritmo deve mostrar quantidade contabilizada e encerrar.
-  - [Não resolvido ainda]()
+  - [Resolução](https://github.com/christianodavid/estruturas-repeticao-c/blob/main/exercicio-007/main.c)
 - 008 - Desenvolva um algoritmo que peça para o usuário informar dois números. Após isso, o algoritmo deve mostrar o cálculo do primeiro número elevado ao segundo. Ao final, o algoritmo deve perguntar se o usuário deseja repetir a operação. Caso o usuário insira o caractere "s", o algoritmo solicita novamente dois números e mostra novamente a potência do primeiro pelo segundo. Caso contrário, o algoritmo é encerrado.
   - [Não resolvido ainda]()
 - 009 - Desenvolva um algoritmo que peça ao usuário que insira dois números inteiros positivos A e B, no qual A deve ser menor que B. O algoritmo deve mostrar, na tela, todos os números ímpares compreendidos entre A e B (inclusive).
